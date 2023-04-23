@@ -17,6 +17,7 @@ public class Main {
         int[] arrayB = {1, 2, 3, 4, 5};
         arrayDifference(arrayA, arrayB);
 
+
     }
 
     public static void metod1_ArrayIndexOutOfBoundsException() {

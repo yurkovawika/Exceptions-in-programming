@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="687428cd-96c4-4c83-ae5f-f82c0d154456" name="Changes" comment="Lesson_1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_2/task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_2/task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_2/task_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_1/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="687428cd-96c4-4c83-ae5f-f82c0d154456" name="Changes" comment="Lesson_2.task_2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682159171492</updated>
       <workItem from="1682159172507" duration="6765000" />
-      <workItem from="1682270786975" duration="4565000" />
+      <workItem from="1682270786975" duration="4668000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson_1">
       <created>1682165943598</created>
@@ -106,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682165943598</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson_2">
+      <created>1682275407553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682275407553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson_2.task_2">
+      <created>1682275450933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682275450933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson_1" />
+    <MESSAGE value="Lesson_2" />
+    <MESSAGE value="Lesson_2.task_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_2.task_2" />
   </component>
 </project>

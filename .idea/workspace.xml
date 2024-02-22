@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="687428cd-96c4-4c83-ae5f-f82c0d154456" name="Changes" comment="Lesson_2.task_2" />
+    <list default="true" id="687428cd-96c4-4c83-ae5f-f82c0d154456" name="Changes" comment="Lesson_2.task_2">
+      <change afterPath="$PROJECT_DIR$/Final/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Final/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_3/Lesson_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_3/src/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_3/src/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_3/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_3/src/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_3/src/isValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_3/src/isValid.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Final" />
   </component>
   <component name="ProjectId" id="2OmI81VQE3a3eKZpXBrFyxDERaE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,19 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/GB/Java_OOP-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\GB\Exceptions in programming\out\production\Exceptions in programming" />
@@ -47,9 +63,9 @@
       <recent name="Lesson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task_4">
-    <configuration name="task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.task_1" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Lesson_2.MainWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_2.MainWin" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
@@ -61,12 +77,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.task_4" />
+    <configuration name="MainWin (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainWin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainWin" />
+      <module name="Exceptions in programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="Exceptions in programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.task_1" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_2.*" />
+          <option name="PATTERN" value="Lesson_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task_4" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Lesson_2.MainWin" />
         <item itemvalue="Application.task_1" />
+        <item itemvalue="Application.MainWin (1)" />
+        <item itemvalue="Application.MainWin" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +130,9 @@
       <updated>1682159171492</updated>
       <workItem from="1682159172507" duration="6765000" />
       <workItem from="1682270786975" duration="4668000" />
+      <workItem from="1697710031590" duration="2062000" />
+      <workItem from="1697732179061" duration="2706000" />
+      <workItem from="1707820678162" duration="2144000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson_1">
       <created>1682165943598</created>
